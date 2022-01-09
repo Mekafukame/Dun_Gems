@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86ce0bd5629bfeb42941cfcf747da95c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SecondTeleport: {instanceID: 0}
+  - Annoucement: {fileID: 1619377169607494162, guid: 786d015bb9f71764a8633828136a5316,
+      type: 3}
+  - particles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

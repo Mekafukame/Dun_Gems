@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dirt
+  - Interactions
+  - Secret
+  - Stone
+  - Gems
+  - Bomb
+  - Door
+  - Key
+  - Explosion
+  - Teleport
+  - Exit
+  - Enemie
+  - Box
+  - StoneSpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - StopMovement
+  - OtherTilemaps
+  - MovePoints
+  - Collectible
+  - Doors
+  - Particles
+  - Enemies
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 3735297633
+    locked: 0
