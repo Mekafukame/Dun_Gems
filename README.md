@@ -1,2 +1,4 @@
 # Dun_Gems
- My Rock'n Gems like game
+ Moja gry w stylu Rock'n'Gems
+
+
